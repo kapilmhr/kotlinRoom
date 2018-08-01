@@ -1,7 +1,7 @@
 # kotlinRoom
 ### Notes app
 
-![alt text](https://github.com/kapilmhr/kotlinRoom/blob/master/gif/room.gif)
+![alt text](https://github.com/kapilmhr/kotlinRoom/blob/master/gif/app.gif)
 
 
 ### 1. APP architecture MVVM model 
